@@ -1,0 +1,2 @@
+This is a backend for a car garage management application. To make the code work, make sure you edit the SQL datas in the file `src\main\resources\application.properties` to match with your current database information.
+Make sure also to launch the backend under IntelliJ editor and start the server by pressing run on the top right of the page (The language level under the 'project structure' settings page should be set on 'Project default').
